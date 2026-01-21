@@ -31,16 +31,15 @@ A full-stack waste Management System
 
 
 
-## How to run 
+### How to run 
 
 ### frontend
+```bash
 cd frontend\waste-dashboard
 npm install
 npm start
 
 
-### Backend
-```bash
 cd backend
 pip install -r requirements.txt
 python app.py
