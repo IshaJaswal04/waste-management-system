@@ -25,7 +25,7 @@ pip install -r requirements.txt
 python app.py
 
 
-### Frontend
+
 cd frontend\waste-dashboard
 npm install
 npm start
