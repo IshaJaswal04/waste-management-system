@@ -16,7 +16,28 @@ A full-stack waste Management System
 -Interactive dashboard & charts
 
 
+### Screenshots
+### Admin Dashboard
+![Admin Dasboard](screenshots/dashboard.png) 
+![Admin Dasboard](screenshots/dashboard2.png) 
+
+### Woker View 
+![Worker View](screenshots/worker.png)
+![Worker View](screenshots/worker2.png)
+
+### Alert
+![Alert](screenshots/alert.png)
+
+
+
+
 ## How to run 
+
+### frontend
+cd frontend\waste-dashboard
+npm install
+npm start
+
 
 ### Backend
 ```bash
@@ -26,6 +47,4 @@ python app.py
 
 
 
-cd frontend\waste-dashboard
-npm install
-npm start
+
